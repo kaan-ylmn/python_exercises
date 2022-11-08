@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KkhAgAnN
+- 👋 Hi, I’m KaaN
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
