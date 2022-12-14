@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaan
 - 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
