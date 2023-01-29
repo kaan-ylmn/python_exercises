@@ -58,7 +58,7 @@ for i in range(0,3):
     liste2 = list(enumerate(liste2))    
     liste1.append(liste2)
 
-aaa = 2
+count = 2
 while True:
     while True:
         y_axis = int(input("y axis: "))
@@ -69,9 +69,9 @@ while True:
             break
 
     character = "O"
-    if aaa % 2 == 0:
+    if count % 2 == 0:
         character = "X"
-    aaa += 1
+    count += 1
 
     point = liste1[y_axis]
     for x_value in point:
